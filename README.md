@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nobody
 - 👀 I’m interested in Hacking, Exploiting and Developing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking for a developer. Why? ↓↓↓
-- 📱 I want to create an open source operating system based on Kali linux for mobile phones
+- 🌱 I’m coding main with Python
 - 📨 Contact: Nobody-OSdev@proton.me
 - 🪙 Donate BTC: bc1qw67c33tt9ychvwat789cjvda9a9cnygdyr2wu0 (Thank you)
+- 🎧 Discord: xxnxckxx
