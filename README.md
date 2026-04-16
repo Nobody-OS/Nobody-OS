@@ -28,16 +28,24 @@ Always testing ideas, always learning something new.
 ---
 
 ## 📫 Contact
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Email-Nobody--OSdev%40proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
-<img src="https://img.shields.io/badge/Discord-xxnxckxx-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-
-</p>
+- 📧 Mail: Nobody-OSdev@proton.me  
+- 🎧 Discord: xxnxckxx  
 
 ---
 
 ## 🪙 Support
+BTC: bc1qw67c33tt9ychvwat789cjvda9a9cnygdyr2wu0  
 
-<img src="https://img.shields.io/badge/Bitcoin-Donate-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+---
+
+## ⚡ Style vibe
+```css
+body {
+  background: #0d1117;
+  color: #c9d1d9;
+  font-family: monospace;
+}
+
+h1 {
+  color: #58a6ff;
+}
