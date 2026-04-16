@@ -35,17 +35,3 @@ Always testing ideas, always learning something new.
 
 ## 🪙 Support
 BTC: bc1qw67c33tt9ychvwat789cjvda9a9cnygdyr2wu0  
-
----
-
-## ⚡ Style vibe
-```css
-body {
-  background: #0d1117;
-  color: #c9d1d9;
-  font-family: monospace;
-}
-
-h1 {
-  color: #58a6ff;
-}
